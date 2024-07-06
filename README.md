@@ -1,4 +1,4 @@
-# Britney Spears Tweet Analysis
+# Twitter Tweets Data Streaming
 
 ## Overview
 This repository contains the data analysis project for the Britney Spears tweet dataset. It includes scripts for processing and analyzing two TSV files (~50MB and ~500MB) to extract insights about the public discourse around Britney Spears. The purpose of this analysis is to showcase data handling, processing capabilities, and exploratory data analysis techniques as part of the application process for the Data Engineer position at IDI.
