@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Twitter_Streaming", "Twitter_Streaming\Twitter_Streaming.pyproj", "{E84727C2-EBDB-4328-B74A-68CE4AF7781B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E84727C2-EBDB-4328-B74A-68CE4AF7781B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E84727C2-EBDB-4328-B74A-68CE4AF7781B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BB0DA84-6CB1-4B76-98A7-7D738914C2A3}
+	EndGlobalSection
+EndGlobal

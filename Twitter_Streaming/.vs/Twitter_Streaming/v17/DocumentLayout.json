@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\isabe\\source\\repos\\Twitter_Streaming\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E84727C2-EBDB-4328-B74A-68CE4AF7781B}|Twitter_Streaming\\Twitter_Streaming.pyproj|C:\\Users\\isabe\\source\\repos\\Twitter_Streaming\\Twitter_Streaming\\src\\app\\app.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E84727C2-EBDB-4328-B74A-68CE4AF7781B}|Twitter_Streaming\\Twitter_Streaming.pyproj|solutionrelative:Twitter_Streaming\\src\\app\\app.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84727C2-EBDB-4328-B74A-68CE4AF7781B}|Twitter_Streaming\\Twitter_Streaming.pyproj|C:\\Users\\isabe\\source\\repos\\Twitter_Streaming\\Twitter_Streaming\\src\\app\\test.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E84727C2-EBDB-4328-B74A-68CE4AF7781B}|Twitter_Streaming\\Twitter_Streaming.pyproj|solutionrelative:Twitter_Streaming\\src\\app\\test.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84727C2-EBDB-4328-B74A-68CE4AF7781B}|Twitter_Streaming\\Twitter_Streaming.pyproj|C:\\Users\\isabe\\source\\repos\\Twitter_Streaming\\Twitter_Streaming\\src\\jobs\\data_ingest_twitter.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E84727C2-EBDB-4328-B74A-68CE4AF7781B}|Twitter_Streaming\\Twitter_Streaming.pyproj|solutionrelative:Twitter_Streaming\\src\\jobs\\data_ingest_twitter.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84727C2-EBDB-4328-B74A-68CE4AF7781B}|Twitter_Streaming\\Twitter_Streaming.pyproj|C:\\Users\\isabe\\source\\repos\\Twitter_Streaming\\Twitter_Streaming\\src\\Dockerfile||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{E84727C2-EBDB-4328-B74A-68CE4AF7781B}|Twitter_Streaming\\Twitter_Streaming.pyproj|solutionrelative:Twitter_Streaming\\src\\Dockerfile||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84727C2-EBDB-4328-B74A-68CE4AF7781B}|Twitter_Streaming\\Twitter_Streaming.pyproj|C:\\Users\\isabe\\source\\repos\\Twitter_Streaming\\Twitter_Streaming\\src\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E84727C2-EBDB-4328-B74A-68CE4AF7781B}|Twitter_Streaming\\Twitter_Streaming.pyproj|solutionrelative:Twitter_Streaming\\src\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84727C2-EBDB-4328-B74A-68CE4AF7781B}|Twitter_Streaming\\Twitter_Streaming.pyproj|C:\\Users\\isabe\\source\\repos\\Twitter_Streaming\\Twitter_Streaming\\Twitter_Streaming.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E84727C2-EBDB-4328-B74A-68CE4AF7781B}|Twitter_Streaming\\Twitter_Streaming.pyproj|solutionrelative:Twitter_Streaming\\Twitter_Streaming.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84727C2-EBDB-4328-B74A-68CE4AF7781B}|Twitter_Streaming\\Twitter_Streaming.pyproj|C:\\Users\\isabe\\source\\repos\\Twitter_Streaming\\Twitter_Streaming\\src\\app\\tweets_analyzer.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E84727C2-EBDB-4328-B74A-68CE4AF7781B}|Twitter_Streaming\\Twitter_Streaming.pyproj|solutionrelative:Twitter_Streaming\\src\\app\\tweets_analyzer.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84727C2-EBDB-4328-B74A-68CE4AF7781B}|Twitter_Streaming\\Twitter_Streaming.pyproj|C:\\Users\\isabe\\source\\repos\\Twitter_Streaming\\Twitter_Streaming\\src\\requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E84727C2-EBDB-4328-B74A-68CE4AF7781B}|Twitter_Streaming\\Twitter_Streaming.pyproj|solutionrelative:Twitter_Streaming\\src\\requirements.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84727C2-EBDB-4328-B74A-68CE4AF7781B}|Twitter_Streaming\\Twitter_Streaming.pyproj|C:\\Users\\isabe\\source\\repos\\Twitter_Streaming\\Twitter_Streaming\\src\\datasets\\Correct_twitter_201904.tsv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E84727C2-EBDB-4328-B74A-68CE4AF7781B}|Twitter_Streaming\\Twitter_Streaming.pyproj|solutionrelative:Twitter_Streaming\\src\\datasets\\Correct_twitter_201904.tsv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84727C2-EBDB-4328-B74A-68CE4AF7781B}|Twitter_Streaming\\Twitter_Streaming.pyproj|C:\\Users\\isabe\\source\\repos\\Twitter_Streaming\\Twitter_Streaming\\src\\config\\config.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E84727C2-EBDB-4328-B74A-68CE4AF7781B}|Twitter_Streaming\\Twitter_Streaming.pyproj|solutionrelative:Twitter_Streaming\\src\\config\\config.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "requirements.txt",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Twitter_Streaming\\Twitter_Streaming\\src\\requirements.txt",
+              "RelativeDocumentMoniker": "Twitter_Streaming\\src\\requirements.txt",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Twitter_Streaming\\Twitter_Streaming\\src\\requirements.txt",
+              "RelativeToolTip": "Twitter_Streaming\\src\\requirements.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-06T16:25:57.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Twitter_Streaming\\Twitter_Streaming\\src\\Dockerfile",
+              "RelativeDocumentMoniker": "Twitter_Streaming\\src\\Dockerfile",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Twitter_Streaming\\Twitter_Streaming\\src\\Dockerfile",
+              "RelativeToolTip": "Twitter_Streaming\\src\\Dockerfile",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-06T16:25:41.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Twitter_Streaming\\Twitter_Streaming\\src\\docker-compose.yml",
+              "RelativeDocumentMoniker": "Twitter_Streaming\\src\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Twitter_Streaming\\Twitter_Streaming\\src\\docker-compose.yml",
+              "RelativeToolTip": "Twitter_Streaming\\src\\docker-compose.yml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-07-06T16:25:23.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "data_ingest_twitter.py",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Twitter_Streaming\\Twitter_Streaming\\src\\jobs\\data_ingest_twitter.py",
+              "RelativeDocumentMoniker": "Twitter_Streaming\\src\\jobs\\data_ingest_twitter.py",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Twitter_Streaming\\Twitter_Streaming\\src\\jobs\\data_ingest_twitter.py",
+              "RelativeToolTip": "Twitter_Streaming\\src\\jobs\\data_ingest_twitter.py",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAcwBUAAABvAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAOJSURBVDhPrZRdaFRHFMf/M/crrlGTDdk0abYmJrbUmNiWQCsFaSUipWnAp/bRB/vSQksQhBZqUCykEQyEPvWlL1Jo8aHQVIRWEFqI1FAfIlI0i3WrIYJba2J2773z1TNz1/UDKRQ87P\u002BemXvn/vacM3MPnqoZY5j1HyydGs\u002BzaPQX9SNfwTXV6bO4I\u002BBJwZdx3tNJ3hMq1BKREgi1cr5JC0RGk5fgpKAqfh7sX/rWAaeWzy5ub\u002BroK3vz\u002BDw\u002Bij62Dr3cR18A9IQK3UGCUBFIWqhC\u002BJhfuZvHWlJZHHjp3lbfAn\u002BT51m714/jV86jebUHNZ6iDIE7TOAPKHARIqkBsmpoLOFLglOEG5BioDfEm10BtPFTy8qA\u002Bhz/K/kJ1ds5BPNLqKxI3FqVkOSl9XUZaRrSQjv/2aetCF4oIL77twNye2nzhLytb6DVix3kwM4DmHpvCgffOYjixqKDFQtFTHw4gZnDMxgeGG6AQb/mMI\u002BQm7gB7AyNfIZq1sIT9/Ku53dh4coCNrdvxomPTyAX5jD33Rx6i70oXSuhp7snA4oMmMN62hiqDZlLucuTqoXQ//AYZYrQKAMVK9TWaoijGGNvjKFULmH/R/shEtGAaUlpGxrD7i3TluUi7AqF7AslNiGL0AJ3v7IbN5dvYvzoOC4uXERbSxtyUQ6F1gK2dG/JYPWUwRkMewjYwaR8ztPgqWgUf/rraRybOYbr5eu4dPkSTp46iQtnLmD2m1kM76jXkP6YQoRihOEZ0KXcrLRs5Qqsxhxw9P3R7AXS/d088sURTB6fRJqkEDGlTTAHJKPorHsQ4QZjZLuSYPGTj4YT1ay6Vn0E5lSvoaalDWCzTmU\u002BTenkPwA8Drtfs0dgNLcYTREyztwuO2BOaLNJ0Lcp1P\u002BCGV1PmUS3nLkaRpRuZD9yemRhk59MYujFoWwlyaY18tbIE2F0XFzxGO2NnbkIOQVtvXuZFh\u002BaOIS9\u002B/Ziz9gejLw98h\u002BwzOyMcnA3HWh\u002BuXuuXa\u002B\u002B9uuf63F1gW7YRxZu19TH1hrzh2zHthx2vvo6KsunfxjcWhnLgDc6f98ovJcDvwWBH6GJNyGyQgjjUSG4R6LUyCtGokpZCQQkGusE927Nfj/YX9nngJcXO76KjHiX\u002BcweKcOpIj7ninOuDefUhrmhnaTe5VHT8qit\u002BpS1Z6iRGWpumlqXYerO9NCzpS8t7yka8C9L2m0aWMo\u002BTAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-07-06T16:24:46.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Correct_twitter_201904.tsv",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Twitter_Streaming\\Twitter_Streaming\\src\\datasets\\Correct_twitter_201904.tsv",
+              "RelativeDocumentMoniker": "Twitter_Streaming\\src\\datasets\\Correct_twitter_201904.tsv",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Twitter_Streaming\\Twitter_Streaming\\src\\datasets\\Correct_twitter_201904.tsv",
+              "RelativeToolTip": "Twitter_Streaming\\src\\datasets\\Correct_twitter_201904.tsv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPBYAQAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-06T16:24:19.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "config.py",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Twitter_Streaming\\Twitter_Streaming\\src\\config\\config.py",
+              "RelativeDocumentMoniker": "Twitter_Streaming\\src\\config\\config.py",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Twitter_Streaming\\Twitter_Streaming\\src\\config\\config.py",
+              "RelativeToolTip": "Twitter_Streaming\\src\\config\\config.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAOJSURBVDhPrZRdaFRHFMf/M/crrlGTDdk0abYmJrbUmNiWQCsFaSUipWnAp/bRB/vSQksQhBZqUCykEQyEPvWlL1Jo8aHQVIRWEFqI1FAfIlI0i3WrIYJba2J2773z1TNz1/UDKRQ87P\u002BemXvn/vacM3MPnqoZY5j1HyydGs\u002BzaPQX9SNfwTXV6bO4I\u002BBJwZdx3tNJ3hMq1BKREgi1cr5JC0RGk5fgpKAqfh7sX/rWAaeWzy5ub\u002BroK3vz\u002BDw\u002Bij62Dr3cR18A9IQK3UGCUBFIWqhC\u002BJhfuZvHWlJZHHjp3lbfAn\u002BT51m714/jV86jebUHNZ6iDIE7TOAPKHARIqkBsmpoLOFLglOEG5BioDfEm10BtPFTy8qA\u002Bhz/K/kJ1ds5BPNLqKxI3FqVkOSl9XUZaRrSQjv/2aetCF4oIL77twNye2nzhLytb6DVix3kwM4DmHpvCgffOYjixqKDFQtFTHw4gZnDMxgeGG6AQb/mMI\u002BQm7gB7AyNfIZq1sIT9/Ku53dh4coCNrdvxomPTyAX5jD33Rx6i70oXSuhp7snA4oMmMN62hiqDZlLucuTqoXQ//AYZYrQKAMVK9TWaoijGGNvjKFULmH/R/shEtGAaUlpGxrD7i3TluUi7AqF7AslNiGL0AJ3v7IbN5dvYvzoOC4uXERbSxtyUQ6F1gK2dG/JYPWUwRkMewjYwaR8ztPgqWgUf/rraRybOYbr5eu4dPkSTp46iQtnLmD2m1kM76jXkP6YQoRihOEZ0KXcrLRs5Qqsxhxw9P3R7AXS/d088sURTB6fRJqkEDGlTTAHJKPorHsQ4QZjZLuSYPGTj4YT1ay6Vn0E5lSvoaalDWCzTmU\u002BTenkPwA8Drtfs0dgNLcYTREyztwuO2BOaLNJ0Lcp1P\u002BCGV1PmUS3nLkaRpRuZD9yemRhk59MYujFoWwlyaY18tbIE2F0XFzxGO2NnbkIOQVtvXuZFh\u002BaOIS9\u002B/Ziz9gejLw98h\u002BwzOyMcnA3HWh\u002BuXuuXa\u002B\u002B9uuf63F1gW7YRxZu19TH1hrzh2zHthx2vvo6KsunfxjcWhnLgDc6f98ovJcDvwWBH6GJNyGyQgjjUSG4R6LUyCtGokpZCQQkGusE927Nfj/YX9nngJcXO76KjHiX\u002BcweKcOpIj7ninOuDefUhrmhnaTe5VHT8qit\u002BpS1Z6iRGWpumlqXYerO9NCzpS8t7yka8C9L2m0aWMo\u002BTAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-07-06T16:23:57.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test.py",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Twitter_Streaming\\Twitter_Streaming\\src\\app\\test.py",
+              "RelativeDocumentMoniker": "Twitter_Streaming\\src\\app\\test.py",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Twitter_Streaming\\Twitter_Streaming\\src\\app\\test.py",
+              "RelativeToolTip": "Twitter_Streaming\\src\\app\\test.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAOJSURBVDhPrZRdaFRHFMf/M/crrlGTDdk0abYmJrbUmNiWQCsFaSUipWnAp/bRB/vSQksQhBZqUCykEQyEPvWlL1Jo8aHQVIRWEFqI1FAfIlI0i3WrIYJba2J2773z1TNz1/UDKRQ87P\u002BemXvn/vacM3MPnqoZY5j1HyydGs\u002BzaPQX9SNfwTXV6bO4I\u002BBJwZdx3tNJ3hMq1BKREgi1cr5JC0RGk5fgpKAqfh7sX/rWAaeWzy5ub\u002BroK3vz\u002BDw\u002Bij62Dr3cR18A9IQK3UGCUBFIWqhC\u002BJhfuZvHWlJZHHjp3lbfAn\u002BT51m714/jV86jebUHNZ6iDIE7TOAPKHARIqkBsmpoLOFLglOEG5BioDfEm10BtPFTy8qA\u002Bhz/K/kJ1ds5BPNLqKxI3FqVkOSl9XUZaRrSQjv/2aetCF4oIL77twNye2nzhLytb6DVix3kwM4DmHpvCgffOYjixqKDFQtFTHw4gZnDMxgeGG6AQb/mMI\u002BQm7gB7AyNfIZq1sIT9/Ku53dh4coCNrdvxomPTyAX5jD33Rx6i70oXSuhp7snA4oMmMN62hiqDZlLucuTqoXQ//AYZYrQKAMVK9TWaoijGGNvjKFULmH/R/shEtGAaUlpGxrD7i3TluUi7AqF7AslNiGL0AJ3v7IbN5dvYvzoOC4uXERbSxtyUQ6F1gK2dG/JYPWUwRkMewjYwaR8ztPgqWgUf/rraRybOYbr5eu4dPkSTp46iQtnLmD2m1kM76jXkP6YQoRihOEZ0KXcrLRs5Qqsxhxw9P3R7AXS/d088sURTB6fRJqkEDGlTTAHJKPorHsQ4QZjZLuSYPGTj4YT1ay6Vn0E5lSvoaalDWCzTmU\u002BTenkPwA8Drtfs0dgNLcYTREyztwuO2BOaLNJ0Lcp1P\u002BCGV1PmUS3nLkaRpRuZD9yemRhk59MYujFoWwlyaY18tbIE2F0XFzxGO2NnbkIOQVtvXuZFh\u002BaOIS9\u002B/Ziz9gejLw98h\u002BwzOyMcnA3HWh\u002BuXuuXa\u002B\u002B9uuf63F1gW7YRxZu19TH1hrzh2zHthx2vvo6KsunfxjcWhnLgDc6f98ovJcDvwWBH6GJNyGyQgjjUSG4R6LUyCtGokpZCQQkGusE927Nfj/YX9nngJcXO76KjHiX\u002BcweKcOpIj7ninOuDefUhrmhnaTe5VHT8qit\u002BpS1Z6iRGWpumlqXYerO9NCzpS8t7yka8C9L2m0aWMo\u002BTAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-07-06T16:23:35.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "tweets_analyzer.py",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Twitter_Streaming\\Twitter_Streaming\\src\\app\\tweets_analyzer.py",
+              "RelativeDocumentMoniker": "Twitter_Streaming\\src\\app\\tweets_analyzer.py",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Twitter_Streaming\\Twitter_Streaming\\src\\app\\tweets_analyzer.py",
+              "RelativeToolTip": "Twitter_Streaming\\src\\app\\tweets_analyzer.py",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAYwGYAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAOJSURBVDhPrZRdaFRHFMf/M/crrlGTDdk0abYmJrbUmNiWQCsFaSUipWnAp/bRB/vSQksQhBZqUCykEQyEPvWlL1Jo8aHQVIRWEFqI1FAfIlI0i3WrIYJba2J2773z1TNz1/UDKRQ87P\u002BemXvn/vacM3MPnqoZY5j1HyydGs\u002BzaPQX9SNfwTXV6bO4I\u002BBJwZdx3tNJ3hMq1BKREgi1cr5JC0RGk5fgpKAqfh7sX/rWAaeWzy5ub\u002BroK3vz\u002BDw\u002Bij62Dr3cR18A9IQK3UGCUBFIWqhC\u002BJhfuZvHWlJZHHjp3lbfAn\u002BT51m714/jV86jebUHNZ6iDIE7TOAPKHARIqkBsmpoLOFLglOEG5BioDfEm10BtPFTy8qA\u002Bhz/K/kJ1ds5BPNLqKxI3FqVkOSl9XUZaRrSQjv/2aetCF4oIL77twNye2nzhLytb6DVix3kwM4DmHpvCgffOYjixqKDFQtFTHw4gZnDMxgeGG6AQb/mMI\u002BQm7gB7AyNfIZq1sIT9/Ku53dh4coCNrdvxomPTyAX5jD33Rx6i70oXSuhp7snA4oMmMN62hiqDZlLucuTqoXQ//AYZYrQKAMVK9TWaoijGGNvjKFULmH/R/shEtGAaUlpGxrD7i3TluUi7AqF7AslNiGL0AJ3v7IbN5dvYvzoOC4uXERbSxtyUQ6F1gK2dG/JYPWUwRkMewjYwaR8ztPgqWgUf/rraRybOYbr5eu4dPkSTp46iQtnLmD2m1kM76jXkP6YQoRihOEZ0KXcrLRs5Qqsxhxw9P3R7AXS/d088sURTB6fRJqkEDGlTTAHJKPorHsQ4QZjZLuSYPGTj4YT1ay6Vn0E5lSvoaalDWCzTmU\u002BTenkPwA8Drtfs0dgNLcYTREyztwuO2BOaLNJ0Lcp1P\u002BCGV1PmUS3nLkaRpRuZD9yemRhk59MYujFoWwlyaY18tbIE2F0XFzxGO2NnbkIOQVtvXuZFh\u002BaOIS9\u002B/Ziz9gejLw98h\u002BwzOyMcnA3HWh\u002BuXuuXa\u002B\u002B9uuf63F1gW7YRxZu19TH1hrzh2zHthx2vvo6KsunfxjcWhnLgDc6f98ovJcDvwWBH6GJNyGyQgjjUSG4R6LUyCtGokpZCQQkGusE927Nfj/YX9nngJcXO76KjHiX\u002BcweKcOpIj7ninOuDefUhrmhnaTe5VHT8qit\u002BpS1Z6iRGWpumlqXYerO9NCzpS8t7yka8C9L2m0aWMo\u002BTAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-07-06T16:23:14.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.py",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Twitter_Streaming\\Twitter_Streaming\\src\\app\\app.py",
+              "RelativeDocumentMoniker": "Twitter_Streaming\\src\\app\\app.py",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Twitter_Streaming\\Twitter_Streaming\\src\\app\\app.py",
+              "RelativeToolTip": "Twitter_Streaming\\src\\app\\app.py",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAwwBkAAABrAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAOJSURBVDhPrZRdaFRHFMf/M/crrlGTDdk0abYmJrbUmNiWQCsFaSUipWnAp/bRB/vSQksQhBZqUCykEQyEPvWlL1Jo8aHQVIRWEFqI1FAfIlI0i3WrIYJba2J2773z1TNz1/UDKRQ87P\u002BemXvn/vacM3MPnqoZY5j1HyydGs\u002BzaPQX9SNfwTXV6bO4I\u002BBJwZdx3tNJ3hMq1BKREgi1cr5JC0RGk5fgpKAqfh7sX/rWAaeWzy5ub\u002BroK3vz\u002BDw\u002Bij62Dr3cR18A9IQK3UGCUBFIWqhC\u002BJhfuZvHWlJZHHjp3lbfAn\u002BT51m714/jV86jebUHNZ6iDIE7TOAPKHARIqkBsmpoLOFLglOEG5BioDfEm10BtPFTy8qA\u002Bhz/K/kJ1ds5BPNLqKxI3FqVkOSl9XUZaRrSQjv/2aetCF4oIL77twNye2nzhLytb6DVix3kwM4DmHpvCgffOYjixqKDFQtFTHw4gZnDMxgeGG6AQb/mMI\u002BQm7gB7AyNfIZq1sIT9/Ku53dh4coCNrdvxomPTyAX5jD33Rx6i70oXSuhp7snA4oMmMN62hiqDZlLucuTqoXQ//AYZYrQKAMVK9TWaoijGGNvjKFULmH/R/shEtGAaUlpGxrD7i3TluUi7AqF7AslNiGL0AJ3v7IbN5dvYvzoOC4uXERbSxtyUQ6F1gK2dG/JYPWUwRkMewjYwaR8ztPgqWgUf/rraRybOYbr5eu4dPkSTp46iQtnLmD2m1kM76jXkP6YQoRihOEZ0KXcrLRs5Qqsxhxw9P3R7AXS/d088sURTB6fRJqkEDGlTTAHJKPorHsQ4QZjZLuSYPGTj4YT1ay6Vn0E5lSvoaalDWCzTmU\u002BTenkPwA8Drtfs0dgNLcYTREyztwuO2BOaLNJ0Lcp1P\u002BCGV1PmUS3nLkaRpRuZD9yemRhk59MYujFoWwlyaY18tbIE2F0XFzxGO2NnbkIOQVtvXuZFh\u002BaOIS9\u002B/Ziz9gejLw98h\u002BwzOyMcnA3HWh\u002BuXuuXa\u002B\u002B9uuf63F1gW7YRxZu19TH1hrzh2zHthx2vvo6KsunfxjcWhnLgDc6f98ovJcDvwWBH6GJNyGyQgjjUSG4R6LUyCtGokpZCQQkGusE927Nfj/YX9nngJcXO76KjHiX\u002BcweKcOpIj7ninOuDefUhrmhnaTe5VHT8qit\u002BpS1Z6iRGWpumlqXYerO9NCzpS8t7yka8C9L2m0aWMo\u002BTAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-07-06T16:23:07.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Twitter_Streaming.py",
+              "DocumentMoniker": "C:\\Users\\isabe\\source\\repos\\Twitter_Streaming\\Twitter_Streaming\\Twitter_Streaming.py",
+              "RelativeDocumentMoniker": "Twitter_Streaming\\Twitter_Streaming.py",
+              "ToolTip": "C:\\Users\\isabe\\source\\repos\\Twitter_Streaming\\Twitter_Streaming\\Twitter_Streaming.py",
+              "RelativeToolTip": "Twitter_Streaming\\Twitter_Streaming.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAOJSURBVDhPrZRdaFRHFMf/M/crrlGTDdk0abYmJrbUmNiWQCsFaSUipWnAp/bRB/vSQksQhBZqUCykEQyEPvWlL1Jo8aHQVIRWEFqI1FAfIlI0i3WrIYJba2J2773z1TNz1/UDKRQ87P\u002BemXvn/vacM3MPnqoZY5j1HyydGs\u002BzaPQX9SNfwTXV6bO4I\u002BBJwZdx3tNJ3hMq1BKREgi1cr5JC0RGk5fgpKAqfh7sX/rWAaeWzy5ub\u002BroK3vz\u002BDw\u002Bij62Dr3cR18A9IQK3UGCUBFIWqhC\u002BJhfuZvHWlJZHHjp3lbfAn\u002BT51m714/jV86jebUHNZ6iDIE7TOAPKHARIqkBsmpoLOFLglOEG5BioDfEm10BtPFTy8qA\u002Bhz/K/kJ1ds5BPNLqKxI3FqVkOSl9XUZaRrSQjv/2aetCF4oIL77twNye2nzhLytb6DVix3kwM4DmHpvCgffOYjixqKDFQtFTHw4gZnDMxgeGG6AQb/mMI\u002BQm7gB7AyNfIZq1sIT9/Ku53dh4coCNrdvxomPTyAX5jD33Rx6i70oXSuhp7snA4oMmMN62hiqDZlLucuTqoXQ//AYZYrQKAMVK9TWaoijGGNvjKFULmH/R/shEtGAaUlpGxrD7i3TluUi7AqF7AslNiGL0AJ3v7IbN5dvYvzoOC4uXERbSxtyUQ6F1gK2dG/JYPWUwRkMewjYwaR8ztPgqWgUf/rraRybOYbr5eu4dPkSTp46iQtnLmD2m1kM76jXkP6YQoRihOEZ0KXcrLRs5Qqsxhxw9P3R7AXS/d088sURTB6fRJqkEDGlTTAHJKPorHsQ4QZjZLuSYPGTj4YT1ay6Vn0E5lSvoaalDWCzTmU\u002BTenkPwA8Drtfs0dgNLcYTREyztwuO2BOaLNJ0Lcp1P\u002BCGV1PmUS3nLkaRpRuZD9yemRhk59MYujFoWwlyaY18tbIE2F0XFzxGO2NnbkIOQVtvXuZFh\u002BaOIS9\u002B/Ziz9gejLw98h\u002BwzOyMcnA3HWh\u002BuXuuXa\u002B\u002B9uuf63F1gW7YRxZu19TH1hrzh2zHthx2vvo6KsunfxjcWhnLgDc6f98ovJcDvwWBH6GJNyGyQgjjUSG4R6LUyCtGokpZCQQkGusE927Nfj/YX9nngJcXO76KjHiX\u002BcweKcOpIj7ninOuDefUhrmhnaTe5VHT8qit\u002BpS1Z6iRGWpumlqXYerO9NCzpS8t7yka8C9L2m0aWMo\u002BTAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-07-06T16:11:01.614Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

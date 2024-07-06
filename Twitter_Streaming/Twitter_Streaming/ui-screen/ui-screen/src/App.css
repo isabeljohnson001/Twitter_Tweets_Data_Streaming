@@ -1,0 +1,96 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+/* Hide scrollbar for Chrome, Safari, and Opera */
+body::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge, and Firefox */
+body {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+.search-container {
+  margin: 20px auto;
+  width: 40%; /* Adjust based on your preference */
+}
+
+.search-form {
+  display: flex;
+  justify-content: center;
+}
+
+.search-input {
+  font-size: 16px;
+  width: 70%;
+  padding: 10px 20px;
+  margin-right: -4px; /* Makes button fit seamlessly */
+  border: 2px solid #ccc;
+  border-right: none; /* Hides right border where button joins */
+  border-radius: 5px 0 0 5px; /* Rounded corners on the left side */
+}
+
+.search-button {
+  font-size: 16px;
+  padding: 10px 20px;
+  background-color: #4CAF50; /* Green background */
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 0 5px 5px 0; /* Rounded corners on the right side */
+}
+
+.search-button:hover {
+  background-color: #45a049; /* Darker green on hover */
+}
+
+#chart {
+  margin-top: 20px;
+}
+
+.container, h1, .centered-text {
+  text-align: center; /* Centers all text within the container */
+}
+
+h1 {
+  color: #333; /* Keeps the text color styling */
+}
+
+.tweets-container {
+  width: 80%;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+.data-display-container {
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-top: 20px;
+  overflow-x: auto;
+  max-height: 350px; 
+}
+
+.data-display {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 14px;
+  line-height: 1.5;
+  white-space: pre-wrap; /* Ensures long lines wrap correctly */
+  color: #333;
+}
+
+@media (max-width: 768px) {
+  .search-container, .tweets-container {
+    width: 90%; /* More responsive width for smaller screens */
+  }
+
+  .data-display-container {
+    width: 100%;
+  }
+}
